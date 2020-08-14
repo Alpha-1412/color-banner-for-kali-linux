@@ -1,5 +1,6 @@
 #dependecy packets
-sudo apt install figlet -y && apt install lolcat -y
+sudo apt install figlet -y
+sudo apt install lolcat -y
 
 # #clone this repo for figlet-fonts
 git clone https://github.com/xero/figlet-fonts.git
